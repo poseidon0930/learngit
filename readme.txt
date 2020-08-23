@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 Creating a new branch is quick.
 git merge --no-ff -m "merge with no-ff" dev
+pyth
